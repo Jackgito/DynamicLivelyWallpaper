@@ -20,7 +20,6 @@ Type shell:startup and press Enter to open the Startup folder.
 Right-click in the folder, select "New", and choose "Shortcut".
 In the "Create Shortcut" dialog box, enter the path to the Python executable followed by the path to the script, and click "Next".
 Give the shortcut a name and click "Finish". The script will now run every time you start Windows.
-Note: Make sure to adjust the paths in step 4 to match the location of your Python executable and script file.
 
 Troubleshooting
 If the program is not working as expected, try the following troubleshooting steps:
